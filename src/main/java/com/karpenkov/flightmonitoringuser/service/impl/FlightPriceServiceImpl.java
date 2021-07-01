@@ -12,6 +12,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 public class FlightPriceServiceImpl implements FlightPriceService {
 @Autowired
+
 private FligthPricesClient client = new FlightPriceClientImpl();
 
     @Override

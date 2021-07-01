@@ -46,9 +46,6 @@ public class SubscriptionController {
     public void delete (@PathVariable final long id){
         subscriptionService.delete(id);
     }
-
-
-
 }
 
 

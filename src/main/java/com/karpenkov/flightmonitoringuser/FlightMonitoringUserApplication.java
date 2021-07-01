@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FlightMonitoringUserApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(FlightMonitoringUserApplication.class, args);
     }
 
