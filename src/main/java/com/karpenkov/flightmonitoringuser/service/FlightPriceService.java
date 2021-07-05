@@ -1,5 +1,5 @@
 package com.karpenkov.flightmonitoringuser.service;
-import  com.github.A-dev-cyber.flight-monitoringClient.src.main.java.flightPrices.FlightPricesDto;
+//import  com.example.flight-monitoringClient.src.main.java.flightPrices.FlightPricesDto;
 // Service, for getting details based on {@link Subscription} object
 
 import com.karpenkov.flightmonitoringuser.repository.Subscription;

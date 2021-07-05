@@ -1,6 +1,6 @@
 package com.karpenkov.flightmonitoringuser.service.impl;
-import com.github.A-dev-cyber.flight-monitoringClient.src.main.java.FlightPricesDto;
-import com.github.A-dev-cyber.flight-monitoringClient.src.main.java.FlightPrices;
+//import com.example.flight-monitoringClient.src.main.java.FlightPricesDto;
+//import com.example.flight-monitoringClient.src.main.java.FlightPrices;
 import com.karpenkov.flightmonitoringuser.repository.Subscription;
 import com.karpenkov.flightmonitoringuser.service.FlightPriceService;
 
